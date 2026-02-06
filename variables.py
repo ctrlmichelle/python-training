@@ -21,3 +21,6 @@ print(area)
 
 my_name=input("enter your name: ")
 print(my_name)
+
+
+print("Something new")
